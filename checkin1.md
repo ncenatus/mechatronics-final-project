@@ -12,6 +12,8 @@ The physical assembly is complete, but I still need to verify the wiring, progra
 
 ## Scheduled Goal and plans
 
+![Image description](A_1.png)
+
 I have  the have completed the assembly stee. However, programming and functional testing are not in progress yet. My next priority is to test each component individually before combining everything into a single Arduino program. I made several adjustments to my original project design:Replaced the LM35 temperature sensor with a DHT11 temperature and humidity sensor because it was available in my Arduino kit. I Selected the L293D motor driver to control the DC motor. I Removed the LED indicators and audio alarm to simplify the circuit and Extended some jumper wires to accommodate the physical arrangement of the components. 
 Before the final submission, I plan to ,Verify all wiring and power connections, Test the DHT11 temperature sensor using the Serial Monitor, Program and test the LCD display, Test the DC motor and L293D motor driver, Program the potentiometer to adjust the desired temperature, Develop an automatic fan speed control algorithm using PWM, Complete the circuit diagram and document the experimental results and Record a demonstration video of the completed project.
 
