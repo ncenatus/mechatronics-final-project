@@ -7,7 +7,7 @@ I have completed the initial hardware assembly of my automatic temperature-contr
 During the assembly process, I learned how to identify the pins on the motor driver, connect the LCD display, establish a common ground, and connect the temperature sensor to the Arduino.
 
 The physical assembly is complete, but I still need to verify the wiring, program the Arduino, and test the functionality of the system.
-
+v
 
 
 ## Scheduled Goal and plans
