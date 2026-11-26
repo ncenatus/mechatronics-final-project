@@ -22,3 +22,7 @@ During my research, I found a similar temperature-controlled fan project on Circ
 One commercial product that performs a similar function is the AC Infinity AIRPLATE T-Series cooling system. This product is designed to prevent electronic equipment from overheating. It uses a thermal probe to measure temperature, a digital controller to process the measurements, and electric fans to provide cooling. Users can adjust the desired temperature and fans speeds. My project uses arduino programing and manual wiring while the commercial has inetegrated sensors and controllers. 
 
 
+Reference 
+[AC Infinity - Commercial Temperature Controlled Fan](https://acinfinity.com/)
+
+[Circuit Digest - Automatic Temperature Controlled Fan](https://circuitdigest.com/microcontroller-projects/automatic-temperature-controlled-fan-project)
