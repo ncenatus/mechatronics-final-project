@@ -20,6 +20,7 @@ The objective of this project is to design an automatic temperature-controlled f
 - External power supply
 
 ## Project Documentation
+### Check-in 1
 
 - [Check-in 1 – Initial Assembly and Research](checkin1.md)
 - 
